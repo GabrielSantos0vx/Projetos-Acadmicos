@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-//Devs - Gabriel Santos Costa Da Silva e Daniel Souza Da Silva
-
+//Dev - Gabriel Santos Costa Da Silva
 public class PetAmigo {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
